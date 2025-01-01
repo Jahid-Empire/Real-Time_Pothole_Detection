@@ -1,6 +1,6 @@
 # Real-Time_Pothole_Detection
 
-**problem Statement**
+**Problem Statement**
 Road infrastructure plays a crucial role in economic growth, safety, and mobility. However, poor road conditions, particularly potholes, pose significant challenges, including increased vehicle operating costs, heightened accident risks, and reduced transportation efficiency. Conventional pothole detection methods, such as manual inspections and specialized sensors, are often expensive, time-consuming, and inefficient for large-scale applications.
 
 **Project Objective**
